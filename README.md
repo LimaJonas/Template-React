@@ -1,2 +1,13 @@
-# Template-React
-Template para Freelancer básico usando React
+# Template basico em React
+
+## Setup
+
+```
+npm install
+```
+
+### Ao terminar instalação
+
+```
+npm start
+```
