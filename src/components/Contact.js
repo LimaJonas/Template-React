@@ -2,7 +2,7 @@ import React from 'react';
 
 const Contact = props => {
     return (
-        <section className='page-section' id='contact'>
+        <section className='page-section mt-4' id='contact'>
             <div className='container'>
                 {/* Contact Section Heading*/}
                 <h2 className='page-section-heading text-center text-uppercase text-secondary mb-0'>Contact Me</h2>

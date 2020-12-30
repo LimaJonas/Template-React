@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = props => {
     return (
-        <section className='page-section bg-primary text-white mb-0' id='about'>
+        <section className='page-section bg-primary text-white mb-0 mt-4' id='about'>
             <div className='container'>
                 {/* About Section Heading*/}
                 <h2 className='page-section-heading text-center text-uppercase text-white'>About</h2>
