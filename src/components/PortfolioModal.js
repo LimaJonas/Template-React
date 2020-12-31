@@ -27,7 +27,7 @@ const PortfolioModal = props => {
                                         <p class='mb-5'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                                         <button class='btn btn-primary' data-dismiss='modal'>
                                             <i class='fas fa-times fa-fw'></i>
-                                            Close Window
+                                            Fechar
                                         </button>
                                     </div>
                                 </div>
@@ -60,7 +60,7 @@ const PortfolioModal = props => {
                                         <p class='mb-5'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                                         <button class='btn btn-primary' data-dismiss='modal'>
                                             <i class='fas fa-times fa-fw'></i>
-                                            Close Window
+                                            Fechar
                                         </button>
                                     </div>
                                 </div>
@@ -94,7 +94,7 @@ const PortfolioModal = props => {
                                         <p class='mb-5'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                                         <button class='btn btn-primary' data-dismiss='modal'>
                                             <i class='fas fa-times fa-fw'></i>
-                                            Close Window
+                                            Fechar
                                         </button>
                                     </div>
                                 </div>
@@ -128,7 +128,7 @@ const PortfolioModal = props => {
                                         <p class='mb-5'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                                         <button class='btn btn-primary' data-dismiss='modal'>
                                             <i class='fas fa-times fa-fw'></i>
-                                            Close Window
+                                            Fechar
                                         </button>
                                     </div>
                                 </div>
@@ -162,7 +162,7 @@ const PortfolioModal = props => {
                                         <p class='mb-5'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                                         <button class='btn btn-primary' data-dismiss='modal'>
                                             <i class='fas fa-times fa-fw'></i>
-                                            Close Window
+                                            Fechar
                                         </button>
                                     </div>
                                 </div>
@@ -196,7 +196,7 @@ const PortfolioModal = props => {
                                         <p class='mb-5'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
                                         <button class='btn btn-primary' data-dismiss='modal'>
                                             <i class='fas fa-times fa-fw'></i>
-                                            Close Window
+                                            Fechar
                                         </button>
                                     </div>
                                 </div>

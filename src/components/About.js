@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = props => {
     return (
-        <section className='page-section bg-primary text-white mb-0 mt-4' id='about'>
+        <section className='page-section bg-primary text-white mb-0 mt-4'>
             <div className='container'>
                 {/* About Section Heading*/}
                 <h2 className='page-section-heading text-center text-uppercase text-white'>About</h2>
@@ -14,15 +14,8 @@ const About = props => {
                 </div>
                 {/* About Section Content*/}
                 <div className='row'>
-                    <div className='col-lg-4 ml-auto'><p className='lead'>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
-                    <div className='col-lg-4 mr-auto'><p className='lead'>You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
-                </div>
-                {/* About Section Button*/}
-                <div className='text-center mt-4'>
-                    <a className='btn btn-xl btn-outline-light' href='https://startbootstrap.com/theme/freelancer/'>
-                        <i className='fas fa-download mr-2'></i>
-                        Free Download!
-                    </a>
+                    <div className='col-lg-4 ml-auto'><p className='lead'>Este template foi criado por Start Bootstrap. Reconstruido para funcionar com React por <a href='https://github.com/LimaJonas'>Jonas Lima</a>.</p></div>
+                    <div className='col-lg-4 mr-auto'><p className='lead'>Você pode alterar e customizar a vontade, altere os icones e adicione seu endereço de email para contato!</p></div>
                 </div>
             </div>
         </section>

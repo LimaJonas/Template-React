@@ -4,7 +4,7 @@ import PortfolioModal from './PortfolioModal';
 const Portfolio = props => {
     return (
         <div>
-            <section className='page-section portfolio mt-4' id='portfolio'>
+            <section className='page-section portfolio mt-4'>
                 <div className='container'>
                     {/* Portfolio Section Heading*/}
                     <h2 className='page-section-heading text-center text-uppercase text-secondary mb-0'>Portfolio</h2>
