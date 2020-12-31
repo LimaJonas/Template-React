@@ -1,12 +1,15 @@
 import React from 'react';
 
+// Images
+import avatar from './../images/avataaars.svg';
+
 const Header = props => {
     return(
         
         <header className='masthead bg-primary text-white text-center'>
             <div className='container d-flex align-items-center flex-column'>
                 {/* Masthead Avatar Image*/}
-                <img className='masthead-avatar mb-5' src='assets/img/avataaars.svg' alt='' />
+                <img className='masthead-avatar mb-5' src={avatar} alt='' />
                 {/* Masthead Heading*/}
                 <h1 className='masthead-heading text-uppercase mb-0'>Template React</h1>
                 {/* Icon Divider*/}

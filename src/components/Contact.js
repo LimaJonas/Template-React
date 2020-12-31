@@ -16,25 +16,25 @@ const Contact = props => {
                 <div className='row'>
                     <div className='col-lg-8 mx-auto'>
                         {/* To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19.*/}
-                        <form id='contactForm' name='sentMessage' novalidate='novalidate'>
+                        <form id='contactForm' name='sentMessage'>
                             <div className='control-group'>
                                 <div className='form-group floating-label-form-group controls mb-0 pb-2'>
                                     <label>Name</label>
-                                    <input className='form-control' id='name' type='text' placeholder='Nome' required='required' data-validation-required-message='Please enter your name.' />
+                                    <input className='form-control' id='name' type='text' placeholder='Nome' required='required' data-validation-required-message='Por favor, digite seu nome.' />
                                     <p className='help-block text-danger'></p>
                                 </div>
                             </div>
                             <div className='control-group'>
                                 <div className='form-group floating-label-form-group controls mb-0 pb-2'>
                                     <label>Email Address</label>
-                                    <input className='form-control' id='email' type='email' placeholder='Email' required='required' data-validation-required-message='Please enter your email address.' />
+                                    <input className='form-control' id='email' type='email' placeholder='Email' required='required' data-validation-required-message='Por favor, digite seu email.' />
                                     <p className='help-block text-danger'></p>
                                 </div>
                             </div>
                             <div className='control-group'>
                                 <div className='form-group floating-label-form-group controls mb-0 pb-2'>
                                     <label>Mensagem</label>
-                                    <textarea className='form-control' id='message' rows='5' placeholder='Mensagem' required='required' data-validation-required-message='Please enter a message.'></textarea>
+                                    <textarea className='form-control' id='message' rows='5' placeholder='Mensagem' required='required' data-validation-required-message='Por favor, digite sua mensagem.'></textarea>
                                     <p className='help-block text-danger'></p>
                                 </div>
                             </div>
